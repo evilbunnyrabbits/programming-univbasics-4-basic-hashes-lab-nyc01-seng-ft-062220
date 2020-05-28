@@ -8,6 +8,7 @@ def my_hash
     :job = 'plumber',
     :salary = 65000
   }
+  return employee
 end
 
 def pioneer
