@@ -3,7 +3,11 @@ def new_hash
 end
 
 def my_hash
-  
+  employee = {
+    :name = 'Bob',
+    :job = 'plumber',
+    :salary = 65000
+  }
 end
 
 def pioneer
