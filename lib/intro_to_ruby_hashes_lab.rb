@@ -4,9 +4,9 @@ end
 
 def my_hash
   employee = {
-    :name = 'Bob',
-    :job = 'plumber',
-    :salary = 65000
+    :name => 'Bob',
+    :job => 'plumber',
+    :salary => 65000
   }
   return employee
 end
